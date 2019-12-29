@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Dubbo-Common-Api-Impl-Spring" />
+        <module name="Dubbo-Common-Api-Spring" />
+        <module name="Dubbo-Common-Spring" />
+        <module name="Dubbo-Consumer-Spring" />
+        <module name="Dubbo-Provider-Spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dubbo-Common-Api-Impl-Spring" target="1.6" />
+      <module name="Dubbo-Common-Api-Spring" target="1.6" />
+      <module name="Dubbo-Common-Spring" target="1.6" />
+      <module name="Dubbo-Consumer-Spring" target="1.6" />
+      <module name="Dubbo-Provider-Spring" target="1.6" />
+      <module name="Dubbo-Study-Spring-Boot" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Dubbo-Common-Api-Impl-Spring" options="-parameters" />
+      <module name="Dubbo-Common-Api-Spring" options="-parameters" />
+      <module name="Dubbo-Common-Spring" options="-parameters" />
+      <module name="Dubbo-Consumer-Spring" options="-parameters" />
+      <module name="Dubbo-Provider-Spring" options="-parameters" />
+    </option>
+  </component>
+</project>

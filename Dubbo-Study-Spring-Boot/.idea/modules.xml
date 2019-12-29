@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Common-Api-Impl-Spring/Dubbo-Common-Api-Impl-Spring.iml" filepath="$PROJECT_DIR$/Dubbo-Common-Api-Impl-Spring/Dubbo-Common-Api-Impl-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Common-Api-Spring/Dubbo-Common-Api-Spring.iml" filepath="$PROJECT_DIR$/Dubbo-Common-Api-Spring/Dubbo-Common-Api-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Common-Spring/Dubbo-Common-Spring.iml" filepath="$PROJECT_DIR$/Dubbo-Common-Spring/Dubbo-Common-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Consumer-Spring/Dubbo-Consumer-Spring.iml" filepath="$PROJECT_DIR$/Dubbo-Consumer-Spring/Dubbo-Consumer-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Provider-Spring/Dubbo-Provider-Spring.iml" filepath="$PROJECT_DIR$/Dubbo-Provider-Spring/Dubbo-Provider-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo-Study-Spring-Boot.iml" filepath="$PROJECT_DIR$/Dubbo-Study-Spring-Boot.iml" />
+    </modules>
+  </component>
+</project>
