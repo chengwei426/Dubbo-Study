@@ -1,0 +1,5 @@
+com\iwhalecloud\common\BaseResponse.class
+com\iwhalecloud\common\ResponseData.class
+com\iwhalecloud\ProducerApp.class
+com\iwhalecloud\service\UserService.class
+com\iwhalecloud\api\IUserService.class
